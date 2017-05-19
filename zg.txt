@@ -1,0 +1,3 @@
+let sql = 'asdadas';
+let a = 123;
+var b = a+sql;
