@@ -1,5 +1,7 @@
 # loopback-example-relations
-# asdasdas
+<<<<<<< HEAD
+# asdasdas_asdadasdas
+# insigma_dddd
 ```
 $ git clone https://github.com/strongloop/loopback-example-relations.git
 $ cd loopback-example-relations
